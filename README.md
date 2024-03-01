@@ -1,7 +1,7 @@
 # sandeep-solanky_portfolio_website
 
 
-![Sandeep solanky  Portfolio](./screenshots/prev1.png)
+![Sandeep solanky  Portfolio](./screenshots/shot1.png)
 
 ## Introduction
 
@@ -56,9 +56,9 @@ Once the website is loaded, navigate through the different sections to explore S
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/prev2.png)
-![Screenshot 2](./screenshots/prev3.png)
-![Screenshot 3](./screenshots/prev4.png)
+![Screenshot 1](./screenshots/shot2.png)
+![Screenshot 2](./screenshots/shot3.png)
+![Screenshot 3](./screenshots/shot4.png)
 
 ## Contributing
 
