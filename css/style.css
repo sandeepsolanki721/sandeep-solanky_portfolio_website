@@ -720,7 +720,7 @@ span {
 
 .animate.scroll {
   transition: 1s ease;
-  transition-delay: calc(0.3s / var(--i));
+  transition-delay: calc(0.2s / var(--i));
   animation: none;
 }
 
